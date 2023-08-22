@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-6ls*585-15*dzgtijy59t&q1#9dy(-uuoxo$_ksk=1!3opbuxw
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-vinuc49-project4-django-xqtwv8487g.us2.codeanyapp.com']
+    'vinu-django-todo-app-bd3c56f4e5f4.herokuapp.com']
 
 
 # Application definition
